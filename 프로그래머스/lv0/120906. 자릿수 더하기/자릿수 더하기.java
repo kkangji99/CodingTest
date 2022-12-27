@@ -1,6 +1,5 @@
 class Solution {
     public int solution(int n) {
-        
         String[] str = Integer.toString(n).split("");
         int add=0;
         
